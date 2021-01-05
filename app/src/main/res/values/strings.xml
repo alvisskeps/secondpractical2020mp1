@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Repository G-Alvis</string>
+    <string name="save_btn">Save</string>
+    <string name="go_to_second_btn">Go to 2-nd</string>
+    <string name="read_preferences_btn">Read preferences</string>
+    <string name="back_btn">Back</string>
+    <string-array name="color_themes">
+        <item>Default</item>
+        <item>Dark theme</item>
+        <item>Light theme</item>
+    </string-array>
+</resources>
